@@ -1,7 +1,7 @@
 
 
 ```markdown
-# Crypto Price Bot
+# TGCryptoInfo
 
 Telegram bot for real-time monitoring of TON, USDT, and FREENET cryptocurrency rates.
 
@@ -29,8 +29,8 @@ The bot automatically sends current cryptocurrency rates to a specified chat or 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-price-bot.git
-cd crypto-price-bot
+git clone https://github.com/justyay/TGCryptoInfo.git
+cd TGCryptoInfo
 ```
 
 2. Install dependencies:
