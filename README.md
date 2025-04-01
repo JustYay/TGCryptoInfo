@@ -122,4 +122,3 @@ MIT
 ## Authors
 
 ITDev && incteam
-```
