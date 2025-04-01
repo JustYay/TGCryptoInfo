@@ -1,6 +1,3 @@
-
-
-```markdown
 # TGCryptoInfo
 
 Telegram bot for real-time monitoring of TON, USDT, and FREENET cryptocurrency rates.
