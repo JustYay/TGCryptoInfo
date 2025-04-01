@@ -67,13 +67,13 @@ python bot.py
 
 1. Create a service file:
 ```bash
-sudo nano /etc/systemd/system/crypto-bot.service
+sudo nano /etc/systemd/system/TGCryptoInfo.service
 ```
 
 2. Add the following content:
 ```
 [Unit]
-Description=Telegram Crypto Bot
+Description=TGCryptoInfo
 After=network.target
 
 [Service]
